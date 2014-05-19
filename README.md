@@ -1,4 +1,6 @@
-line-protocol
-=============
+LINE instant messenger protocol
+===============================
 
-LINE instant messenger protocol documentation
+This repository has moved to:
+
+http://altrepo.eu/git/line-protocol.git/
